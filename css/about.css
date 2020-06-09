@@ -3,6 +3,17 @@ body {
 }
 
 
+
+
+.jumbotron {
+    background: url("../img/10.jpg") no-repeat center;
+}
+
+
+
+
+
+
 .BG {
   width: 1005px;
   height: 405px;
