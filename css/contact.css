@@ -35,15 +35,9 @@ body {
   border-radius: 50%;
 }
 
-body {margin:0;height:2000px;}
 
-.icon-bar {
-  position: fixed;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
+
+
 
 .icon-bar a {
   display: block;
